@@ -11,7 +11,7 @@
     "url": "https://github.com/aredfox/electron-angular-starter/issues"
   },
   "scripts": {
-    "electron": "electron src/app"
+    "electron": "electron src/index.html"
   },
   "dependencies": {
     "electron": "^1.6.2"
