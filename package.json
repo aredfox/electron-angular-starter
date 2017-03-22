@@ -1,0 +1,22 @@
+{
+  "name": "electron-angular-starter",
+  "version": "0.0.1",
+  "description": "Electron + Angular 2 + + Webpack 2 + TypeScript",
+  "author": "aredfox <yves.schelpe@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aredfox/electron-angular-starter"
+  },
+  "bugs": {
+    "url": "https://github.com/aredfox/electron-angular-starter/issues"
+  },
+  "scripts": {
+    "electron": "electron src/app"
+  },
+  "dependencies": {
+    "electron": "^1.6.2"
+  },
+  "devDependencies": {
+    "electron-packager": "^8.6.0"
+  }
+}
